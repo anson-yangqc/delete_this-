@@ -1,1 +1,1 @@
-var one = ''
+var one = 's'
