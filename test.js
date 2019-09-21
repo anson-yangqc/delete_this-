@@ -1,1 +1,1 @@
-var one = 's0'
+console.log('и╬ЁЩак')
