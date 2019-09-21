@@ -1,1 +1,1 @@
-var one = 10000000
+var one = 'from dev¿´³åÍ»'
