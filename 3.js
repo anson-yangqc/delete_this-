@@ -1,1 +1,5 @@
-var one = 'from dev¿´³åÍ»'
+
+var one = 'from devï¿½ï¿½ï¿½ï¿½Í»'
+
+var one2 = 'in main'
+
