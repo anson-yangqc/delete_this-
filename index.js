@@ -1,1 +1,1 @@
-var one = 'index'
+var one = 10

@@ -1,1 +1,1 @@
-var one ='dev'
+var one ='/É¾³ıÊÇÄãµÄ'
