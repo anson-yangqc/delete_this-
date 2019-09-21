@@ -1,2 +1,5 @@
-var one = 10000000
+
+var one = 'from dev����ͻ'
+
 var one2 = 'in main'
+
